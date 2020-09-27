@@ -1,0 +1,16 @@
+nav:
+  nav-logo
+  nav-collapse:
+    nav-menu:
+      home
+      featured
+      books
+      about:
+        sheaffer
+        leadership
+        hiring
+        -divider
+        contact us
+    search-form:
+      search-text-input
+      search-button
